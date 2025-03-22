@@ -1,7 +1,7 @@
-# EphexActiveAudit - Auditoria de Active Directory
+# MCH AD Audit - Auditoria de Active Directory
 
 ## 🔖 Visão Geral
-O **EphexActiveAudit** é um pacote de auditoria do Active Directory criado para MSPs e consultores que assumem um ambiente novo e precisam obter uma visão completa da saúde e conformidade do AD antes de qualquer intervenção.
+O **MCH_AD_Audit** é um pacote de auditoria do Active Directory criado para MSPs e consultores que assumem um ambiente novo e precisam obter uma visão completa da saúde e conformidade do AD antes de qualquer intervenção.
 
 Desenvolvido por **Michael Oliveira**, o pacote é modular, simples de executar e gera um **relatório HTML consolidado** com os principais pontos de risco e desorganização do AD.
 
