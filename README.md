@@ -3,6 +3,10 @@
 ## 🔖 Visão Geral
 O **MCH_AD_Audit** é um pacote de auditoria do Active Directory criado para MSPs e consultores que assumem um ambiente novo e precisam obter uma visão completa da saúde e conformidade do AD antes de qualquer intervenção.
 
+## 🖼️ Exemplo de Relatório
+
+![Relatório gerado](https://github.com/michaeloliv/active-directory-audit/blob/main/Relatorio_exemplo_MCH_AD_Audit.png)
+
 Desenvolvido por **Michael Oliveira**, o pacote é modular, simples de executar e gera um **relatório HTML consolidado** com os principais pontos de risco e desorganização do AD.
 
 ---
