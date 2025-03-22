@@ -1,5 +1,7 @@
 # EphexActiveAudit - Auditoria de Active Directory
 
+![Uploading image.png…]()
+
 ## 🔖 Visão Geral
 O **EphexActiveAudit** é um pacote de auditoria do Active Directory criado para MSPs e consultores que assumem um ambiente novo e precisam obter uma visão completa da saúde e conformidade do AD antes de qualquer intervenção.
 
