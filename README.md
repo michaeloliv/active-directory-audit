@@ -56,14 +56,22 @@ Todos os módulos estão localizados na pasta `modules/` e podem ser editados, d
 
 ---
 
+💼 Versão Completa com Guias e Suporte
+Se esse projeto te ajudou ou você quer ir além, criei uma versão mais completa com:
+
+✅ Guia Rápido em PDF e DOCX
+✅ Exemplos reais de saída (CSV, HTML)
+✅ Atualizações futuras e suporte direto comigo
+
+🎯 Adquira aqui → [https://michaeloliveira.gumroad.com/l/mch-ad-audit](https://michaeloliveira.gumroad.com/l/mch-ad-audit)
+
+---
+
 ## 💬 Suporte e Contato
 Para sugestões, suporte ou consultoria:
 
 - ✉ **Email:** michael-745@hotmail.com
 - 👤 **LinkedIn:** [Michael Oliveira](https://www.linkedin.com/in/michaell-oliveira/)
 
----
-
-📆 **Versão:** 1.0  
-🗓 **Atualizado em:** Março/2025  
-👤 **Autor:** Michael Oliveira | Ephex Tecnologia
+🛡 Desenvolvido por Michael Oliveira
+© 2025 - Todos os direitos reservados.
